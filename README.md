@@ -2,7 +2,7 @@
 
 For a summary of the theory on Penrose tilings see [here](https://tartarus.org/~simon/20110412-penrose/penrose.xhtml).
 
-The Jupyter-notebook [create_penrose_tiling.ipynb](https://github.com/jlieberherr/penrose-tilings/blob/main/create_penrose_tiling.ipynb) provides some functionalties to generate Penrose tilings of type P2 and P3 by deflation. The main functions are:
+The Jupyter-notebook [create_penrose_tiling.ipynb](https://github.com/jlieberherr/penrose-tilings/blob/main/create_penrose_tiling.ipynb) provides some functionalities to generate Penrose tilings of type P2 and P3 by deflation. The main functions are:
 - ```draw_rts(rts)```: plots the Robinson triangles in list ```rts```. This generates a Penrose tiling.
 - ```draw_penrose_tiling()```: plots a Penrose tiling.
 - Both functions have (amongst others) the following optional arguments:
